@@ -1,4 +1,4 @@
-👋 Hi, I’m Faraz (@AhmadxFaraz)
++👋 Hi, I’m Faraz (@AhmadxFaraz)
 
 ## 🧠 About Me
 I’m a Computer Science & Engineering undergraduate at *Zakir Hussain College of Engineering and Technology (ZHCET), Aligarh Muslim University (AMU)*.  
@@ -11,13 +11,11 @@ I’m a Computer Science & Engineering undergraduate at *Zakir Hussain College o
 - Foundations of Data Science and Machine Learning
 
 ---
-
-## 👀 Interests
-- Data Science & Artificial Intelligence
-- Algorithmic Thinking & Optimization
-- Backend Systems & APIs
-- Open Source Development
-- Deep, meaningful software design
+ 
+## 🤝 Looking to Collaborate On
+- Real-world, beginner-friendly open source projects  
+- C++ / Python projects involving data or systems  
+- Tech-for-good applications with social impact
 
 ---
 
