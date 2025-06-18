@@ -1,4 +1,4 @@
-+👋 Hi, I’m Faraz (@AhmadxFaraz)
+👋 Hi, I’m Faraz (@AhmadxFaraz)
 
 ## 🧠 About Me
 I’m a Computer Science & Engineering undergraduate at *Zakir Hussain College of Engineering and Technology (ZHCET), Aligarh Muslim University (AMU)*.  
