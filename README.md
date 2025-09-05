@@ -4,13 +4,6 @@
 I’m a Computer Science & Engineering undergraduate at *Zakir Hussain College of Engineering and Technology (ZHCET), Aligarh Muslim University (AMU)*.  
 
 ---
-
-## 🌱 Currently Learning
-- C++ & Data Structures and Algorithms (DSA)
-- Problem Solving & Competitive Programming
-- Foundations of Data Science and Machine Learning
-
----
  
 ## 🤝 Looking to Collaborate On
 - Real-world, beginner-friendly open source projects  
