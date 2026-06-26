@@ -57,7 +57,6 @@ I'm a **Computer Engineering Sophomore** at *Zakir Hussain College of Engineerin
 
 ## 🚀 Featured Work & Milestones
 
-*   **📈 Project-Eigen (Prep Tracker):** A syllabus completion tracker for math and engineering coursework featuring progress analytics, interactive unit dashboards, and conflict-resolved cloud sync via Supabase.
 *   **📊 Quantitative Options Backtesting:** Simulated and stress-tested options trading strategies in Python, implementing Bayesian optimization and Black-Scholes-Merton model calculations.
 *   **🧠 Machine Learning & Model Workflows:** Developed model pipelines locally and in cloud environments (AWS SageMaker, S3). Hands-on experience implementing regression, classification, clustering, association rule learning, and reinforcement learning models.
 *   **🧠 Collaboration & Agile workflows:** Actively using Jira, Bitbucket, and Confluence for workspace tasks, project organization, and source code management.
