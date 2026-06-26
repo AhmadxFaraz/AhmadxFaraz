@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Faraz!
+# Hi, I'm Faraz!
 
 <img src="chibi-faraz.png" align="right" width="160" alt="Faraz's Avatar" />
 
