@@ -10,7 +10,8 @@
 
 I'm a **Computer Engineering Sophomore** at *Zakir Hussain College of Engineering and Technology (ZHCET), Aligarh Muslim University (AMU)*. I'm passionate about tackling complex systems, writing efficient code, and exploring data and systems engineering.
 
-> ### 📓 Developer Journal
+> [!IMPORTANT]
+> **📓 Developer Journal**
 > 
 > *   **Current Obsession:** *Understanding complex systems until they feel simple.*
 > *   **Currently Exploring:** *Quantitative Finance • Machine Learning • Cloud Infrastructure • Data Systems*
