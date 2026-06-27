@@ -10,12 +10,11 @@
 
 I'm a **Computer Engineering Sophomore** at *Zakir Hussain College of Engineering and Technology (ZHCET), Aligarh Muslim University (AMU)*. I'm passionate about tackling complex systems, writing efficient code, and exploring data and systems engineering.
 
-> [!IMPORTANT]
-> **📓 Developer Journal**
+> ### 📓 Developer Journal
 > 
-> *   **Current Obsession:** *Understanding complex systems until they feel simple.*
-> *   **Currently Exploring:** *Quantitative Finance • Machine Learning • Cloud Infrastructure • Data Systems*
-> *   **Core Principle:** *Small progress compounds faster than motivation.*
+> *   <img src="https://img.shields.io/badge/Current_Obsession-007ACC?style=flat-square" alt="Current Obsession" /> *Understanding complex systems until they feel simple.*
+> *   <img src="https://img.shields.io/badge/Currently_Exploring-FFA116?style=flat-square" alt="Currently Exploring" /> *Quantitative Finance • Machine Learning • Cloud Infrastructure • Data Systems*
+> *   <img src="https://img.shields.io/badge/Core_Principle-4EAA25?style=flat-square" alt="Core Principle" /> *Small progress compounds faster than motivation.*
 
 ---
 
